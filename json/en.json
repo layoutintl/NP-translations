@@ -3218,7 +3218,7 @@
     "activate_tag": "activate tag",
     "advanced_page_list": "Advanced Page List",
     "archive_articles_management": "Archive Stories Management",
-    "article_social_sharing": "",
+    "article_social_sharing": "Social Media Management",
     "branded": "Branded",
     "brands_management": "Brands Management",
     "cms_config_file": "C.M.S Config File",
@@ -3435,7 +3435,7 @@
     "quick_search": "",
     "upload_box_hint": "Upload .png .jpg or .pdf",
     "upload_box_message": "Drag & Drop Your Files Here or",
-    "browse": "",
+    "browse": "Videos",
     "general_info": "",
     "article_content": "",
     "publication_section": "",
@@ -3952,5 +3952,16 @@
     "organizational_unit": "",
     "seo_tags": "Seo Tags",
     "error_saving_try_again": "error saving article, please try again in 5 seconds",
-    "plan": "Plan"
+    "plan": "Plan",
+    "compose" : "compose",
+    "analyze" : "Analyze",
+    "social_browser_CIR" : "X monitoring",
+    "authors_list": "Authors Management"
+    "payments" : "Authors Financials",
+    "administrator" : "Admin",
+    "digital_builder" : "Digital Builder",
+    "video_streaming" : "Video Delivery"
+    
+    
+    
 }
