@@ -3530,7 +3530,7 @@
     "predefined_plans": "Predefined Plans",
     "edit_predefined_plans": "",
     "synchronise_stories": "Synchronise Stories",
-    "ads_placement": "Ads Placement",
+    "ads_placement": "Ads Placement" ,
     "digital_pages": "",
     "page_components": "",
     "digital_content": "",
@@ -3958,6 +3958,7 @@
     "administrator" : "Admin",
     "digital_builder" : "Digital Builder",
     "video_streaming" : "Video Delivery",
+    "page_editions" : "Page editions",
     "header_footer_scripts" : " Header Footer Scripts"
     
     
