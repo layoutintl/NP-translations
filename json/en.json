@@ -2252,7 +2252,7 @@
     "Assignments and Events": "Assignments and Events",
     "at": "at",
     "authentication_token_secret": "authentication token secret",
-    "authors_payments": "authors payments",
+    "Authors_payments": "Authors Payments",
     "backup_file_name": "backup file name",
     "backup_file_path": "backup file path",
     "Baseline Grid": "Baseline Grid",
@@ -3988,7 +3988,7 @@
     "image_builder_styles" : "Image Builder Styles",
     "image_builder_templates_manager" : "Image Builder Templates Manager",
     "manage_rate_card" : "Manage rate card",
-    "content_types" : "Content types",
+    "Content_types" : "Content types",
     "manage_content_types" : "Manage content types",
     "create_story" : "Create Story",
     "header_footer_scripts" : "Header Footer Scripts"
