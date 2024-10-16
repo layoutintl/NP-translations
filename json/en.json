@@ -3994,6 +3994,8 @@
     "Content_types" : "Content types",
     "manage_content_types" : "Manage content types",
     "create_story" : "Create Story",
+    "You have no events for this time period." : "You have no events for this time period.",
+    "Please add a new event to see its details here." : "Please add a new event to see its details here.",
     "header_footer_scripts" : "Header Footer Scripts"
     
     
