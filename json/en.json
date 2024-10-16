@@ -696,6 +696,7 @@
     "task_location": "Task Location",
     "groups_to": "Groups To",
     "groups": "Groups",
+    "Group" : "Group",
     "add_a_new_action": "Add a New Action",
     "older_than": "Older Than",
     "you_have_no_script_actions_configured": "You currently have no script actions configured.",
