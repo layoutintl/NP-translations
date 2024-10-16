@@ -653,6 +653,8 @@
     "new_event": "New Event",
     "search_event": "Search Event",
     "view_event": "View Event",
+    "add_event" : "Add Event",
+    "No Event Added" : "No Event Added",
     "related_tasks": "Related Tasks",
     "event_images": "Event Images",
     "notification_types": "Notification Types",
