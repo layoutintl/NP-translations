@@ -7,6 +7,7 @@
     "export_parameters" : "EXPORT PARAMETERS",
     "extract_page_plan_summary" : "extract page plan summary",
     "extract_page_articles_info" : "extract page articles info",
+    "NewsPress-Authors_Payments" : "NewsPress-Authors Payments",
     "export_as_custom" : "export as custom",
     "xml" : "XML",
     "json" : "Json",
