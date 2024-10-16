@@ -5,6 +5,8 @@
     "page_summary" : "Page summary",
     "article_status_workflow" : "Article status workflow",
     "export_parameters" : "EXPORT PARAMETERS",
+    "extract_page_plan_summary" : "extract page plan summary",
+    "extract_page_articles_info" : "extract page articles info",
     "export_as_custom" : "export as custom",
     "xml" : "XML",
     "json" : "Json",
