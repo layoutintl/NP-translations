@@ -1199,6 +1199,7 @@
     "aperture_value": "Aperture Value",
     "flash": "Flash",
     "ads": "Ads",
+    "allow_periodic_password_change" : "allow periodic password change",
     "no_authors_written_any_article": "According to your search criteria, no authors have written any stories",
     "thesaurus": "Thesaurus",
     "thumbnail_view": "Thumbnail View",
