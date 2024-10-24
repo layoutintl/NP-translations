@@ -10,6 +10,8 @@
     "edit_maquette" : "edit maquette",
     "DISCARD" : "DISCARD",
     "Digital" : "Digital",
+    "Save_all" : "Save all",
+    "Delete_all" : "Delete all",
     "duplicate_configuration" : "Duplicate configuration",
     "Source_Parameters" : "Source Parameters",
     "Destination_Parameters" : "Destination Parameters",
