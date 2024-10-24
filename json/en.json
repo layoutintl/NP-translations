@@ -12,6 +12,8 @@
     "All_newspapers" : "All newspapers",
     "spell_check" : "Spell Check",
     "Meta_Keywords" : "Meta Keywords",
+    "Add_to_publications" : "Add to publications",
+    "Remove_from_publications" : "Remove from publications",
     "Meta_Title" : "Meta Title",
     "recent_images_page_default_view" : "recent images page default view",
     "default_news_filter" : "default news filter",
