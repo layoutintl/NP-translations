@@ -13,6 +13,8 @@
     "article_categorie_autocomplete_name" : "article categorie autocomplete name",
     "related_articles_is_required_name" : "related articles is required name",
     "ai_module_desc" : "ai module desc",
+    "menu_url" : "menu url",
+    "website_menu" : "website menu",
     "api_mode" : "api mode",
     "activate_broadcast_message" : "activate broadcast message",
     "broadcast_text" : "broadcast text",
