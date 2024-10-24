@@ -14,6 +14,8 @@
     "related_articles_is_required_name" : "related articles is required name",
     "ai_module_desc" : "ai module desc",
     "api_mode" : "api mode",
+    "activate_broadcast_message" : "activate broadcast message",
+    "broadcast_text" : "broadcast text",
     "Indesign_dtp" : "Indesign dtp",
     "UNCHANGED" : "Unchanged",
     "security_protocol" : "security protocol",
