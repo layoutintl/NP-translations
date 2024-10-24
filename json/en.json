@@ -14,6 +14,7 @@
     "related_articles_is_required_name" : "related articles is required name",
     "ai_module_desc" : "ai module desc",
     "menu_url" : "menu url",
+    "product_name" : "product name",  
     "sender_name" : "sender name",
     "website_menu" : "website menu",
     "api_mode" : "api mode",
