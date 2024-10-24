@@ -4375,5 +4375,11 @@
     "Newspress_rules_management" : "Newspress rules management",
     "Np_extension_management" : "Np extension management",
     "Menu_settings_management" : "Menu settings management",
+    "thirdparty_integration_config" : "thirdparty integration config",
+    "configuration_data" : "configuration data",
+    "Parameters" : "Parameters",
+    "Allowed_Message_variables" : "Allowed Message variables",
+    "Variable" : "Variable",
+    "configuration_format" : "configuration format",
     "header_footer_scripts" : "Header Footer Scripts"   
 }
