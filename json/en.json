@@ -215,6 +215,8 @@
     "Last_24_hours" : "Last 24 Hours",
     "Custom_dates" : "Custom dates",
     "0" : "0",
+    "add_edit_article_type" : "add edit article type",
+    "article_type" : "article type",
     "date_to" : "Date to",
     "Lock_Periods" : "Lock Periods",
     "records" : "Records",
