@@ -1,6 +1,9 @@
 {
     "My_Recent_Articles": "My Recent Stories",
     "bulk_load_maquette" : "bulk load maquette",
+    "algorithm" : "Algorithm",
+    "select_date" : "select date",
+    "reset_to_default" : "Reset to Default",
     "Sync_to" : "Sync to",
     "is_author" : "is author",
     "enable_tfa" : "enable tfa",
