@@ -3,6 +3,10 @@
     "bulk_load_maquette" : "bulk load maquette",
     "save_new_preset" : "save new preset",
     "Find_Articles" : "Find Articles",
+    "languages" : "Languages",
+    "display_limit" : "Display Limit",
+    "manage_your_filters" : "Manage your filters",
+    
     "Reorder_Static_Articles" : "Reorder Static Articles",
     "Breaking_News" : "Breaking News",
     "mages" : "mages",
