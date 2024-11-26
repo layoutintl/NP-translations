@@ -45,6 +45,10 @@
     "Calculate" : "Calculate",
     "extra_fees" : "extra fees",
     "Contract_Ref." : "Contract Ref.",
+    "add_agency" : "add agency",
+    "add_representative" : "add representative",
+    "header_scripts" : "header scripts",
+    "footer_scripts" : "footer scripts",
     
     "Paragraph count" : "Paragraph Count",
     "Target Audience" : "Target Audience",
