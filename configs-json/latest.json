@@ -1,0 +1,5534 @@
+[
+    {
+        "index": "rows",
+        "allowed_values": [],
+        "value": "2",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Row size of the title and subtitle textarea",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "exportfileextension",
+        "allowed_values": [],
+        "value": "txt",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "extension of the exported files",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "exportfolder",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "export folder constructiong string (relative path, no ending slash) supported variables: %pub_id%, %issue_date%, %pub_name%, %pub_secondary_name%",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "maxpages",
+        "allowed_values": [],
+        "value": "200",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "date_format",
+        "allowed_values": [],
+        "value": "%d-%m-%Y",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "tabs_in_body",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "0 disable tabs in article body, 1 enables it",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "tabs_in_title",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "0 disable tabs in article title, 1 enables it",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "printwidth",
+        "allowed_values": [],
+        "value": "732",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "1\/0 on\/off. Hides\/shows the print layout view mode",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "save_shortcut",
+        "allowed_values": [],
+        "value": "CTRL+s",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "export_shortcut",
+        "allowed_values": [],
+        "value": "CTRL+e",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "print_shortcut",
+        "allowed_values": [],
+        "value": "CTRL+h",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "printWithHeader_shortcut",
+        "allowed_values": [],
+        "value": "CTRL+p",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "searchArticles_shortcut",
+        "allowed_values": [],
+        "value": "CTRL+a",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "shortcut to the search article page",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "title_printSize",
+        "allowed_values": [],
+        "value": "20",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font size of the article title",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "subTitle_printSize",
+        "allowed_values": [],
+        "value": "18",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font size of the article sub-title",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "body_printSize",
+        "allowed_values": [],
+        "value": "18",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font size of the article body",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "style_article_title",
+        "allowed_values": [],
+        "value": "XW Zar,Geeza Pro,Times New Roman",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font face of the article title",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "style_article_subTitle",
+        "allowed_values": [],
+        "value": "XW Zar,Geeza Pro,Times New Roman",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font face of the article sub title",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "style_article_body",
+        "allowed_values": [],
+        "value": "XW Zar,Geeza Pro,Times New Roman",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Font face of the article body",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "article_name_prefix",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "default prefix of the article name",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_name_sufix",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "default sufix of the article name",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "datasheet_table_spacing",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Datasheet attributes",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "welcome_date_format",
+        "allowed_values": [],
+        "value": "D M d",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Time displayed in the welcome screen",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "time_date_format",
+        "allowed_values": [],
+        "value": "d F Y h:i:s A",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "display date and time",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "save_shortcut_alt",
+        "allowed_values": [],
+        "value": "\u00d8\u00ad",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "export_shortcut_alt",
+        "allowed_values": [],
+        "value": "\u00d8\u00aa",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "print_shortcut_alt",
+        "allowed_values": [],
+        "value": "\u00d8\u00b7",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "printWithHeader_shortcut_alt",
+        "allowed_values": [],
+        "value": "\u00d8\u00b1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "images_per_page",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "words_per_cm",
+        "allowed_values": [],
+        "value": "13",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Number of words per cm.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "required_article_name",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the creation of an article without the requiring the article name",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "default_limit_type",
+        "allowed_values": [],
+        "value": "word",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the user to have a default limit type selected",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "words_per_page",
+        "allowed_values": [],
+        "value": "100",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Number of words per page.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "image_magick_path",
+        "allowed_values": [],
+        "value": "C:generalImageMagick",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Defines the image magick path",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pp_full_page",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "If set to 0, page planning will work on Relative Pages, if set to 1 it will work on Full Pages.",
+        "categories": [
+            "Page Planning"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "events_display_number",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Determines the number of displayed events in the search events",
+        "categories": [
+            "Events"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "increase_size_shortcut",
+        "allowed_values": [],
+        "value": "Ctrl+plus",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "decrease_size_shortcut",
+        "allowed_values": [],
+        "value": "Ctrl+minus",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "increase_size_shortcut_equal",
+        "allowed_values": [],
+        "value": "Ctrl+equal",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "decrease_size_shortcut_dash",
+        "allowed_values": [],
+        "value": "Ctrl+dash",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "N\/A",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "order_by_sectionname",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "article_upload_file",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_body",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hot_images_management_data_source",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/users\/images\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "used for myuploader (relative path, with ending slash, default=..\/..\/npspace\/users\/images\/)",
+        "categories": [
+            "Hot Images Management"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "hot_images_management_read_count",
+        "allowed_values": [],
+        "value": "5",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "Hot Images Management"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "fckeditor",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Turns on or off FCK Editor.",
+        "categories": [
+            "FCK Editor"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "newspress_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "max_db_revisions",
+        "allowed_values": [],
+        "value": "6",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "news_per_page",
+        "allowed_values": [],
+        "value": "15",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hot_images_default_status",
+        "allowed_values": [],
+        "value": "5000",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "Hot Images Management"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_keywords",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows user to manage the article keywords",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "image_selection_required",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows user to upload information of image without uploading the image",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "newspress_downloader_ftp_space",
+        "allowed_values": [],
+        "value": "E:\/htdocs\/newspress\/npspace\/images_in_process\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Newspress downloader to an application (for FTP, for safari pointing to it)..full path, ending slash)",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "incremental_time_conf",
+        "allowed_values": [],
+        "value": "09:00",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Contains time that determines whether the date is tommorrows or todays date.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "docx_jpeg",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/jpeg\/%Y%\/%m%\/%d%\/%PubInit%_%d%-%m%-%Y%_p%Page%.%PubExt%.jpg",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Contains path for jpeg images for visualizer.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "docx_thumb",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/jpeg\/%Y%\/%m%\/%d%\/%PubInit%_%d%-%m%-%Y%_p%Page%.%PubExt%_thumb.jpg",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Contains path for thumb jpeg images for visualizer.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "docx_pdf",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/pdf\/%Y%\/%m%\/%d%\/%PubInit%_%d%-%m%-%Y%_p%Page%.pdf",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Contains path for pdf files for visualizer.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "docx_template",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/file\/%Y%\/%m%\/%d%\/%PubInit%_%d%-%m%-%Y%_p%Page%",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Contains path for quark\/indesign files for visualizer.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "author_required",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Force user to select an author when creating a new article or saving.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "recent_images_days",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Number of days after which images will not show in My Recent Images.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "use_image_magick",
+        "allowed_values": [],
+        "value": "2",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enable image magik support",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "calendar_day_view",
+        "allowed_values": [],
+        "value": "mon",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Determines where the calendar starts (monday\/sunday)",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "npressxt_qxp_folder",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/file\/%Y%\/%m%\/%d%\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "relative path, with ending slash",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "npressxt_pdf_folder",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/pdf\/%Y%\/%m%\/%d%\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "relative path, with ending slash",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "npressxt_jpg_folder",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/jpeg\/%Y%\/%m%\/%d%\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "relative path, with ending slash",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "npressxt_nonlinked_images_folder",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/nonlinked_images_files\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "relative path, with ending slash",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "npressxt_text_format",
+        "allowed_values": [],
+        "value": "indesign_tag_text_format",
+        "default_value": "indesign_tag_text_format",
+        "recommended_value": "",
+        "description": "Define text parsing format for NPXT( xpress_tags_format, html_format, plain_text_format, indesign_tag_text_format, special_xpress_tags_format, indesign_tag_text_format )",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hot_images_management_thumb_data_source",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/users\/thumbs\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "relative path, with ending slash",
+        "categories": [
+            "Hot Images Management"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "articles_default_status",
+        "allowed_values": [],
+        "value": "110",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Sets the default status for an article",
+        "categories": [
+            "Articles"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "layout_online_server",
+        "allowed_values": [],
+        "value": "http:\/\/www.layoutworkflows.com\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path of layouts online server.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "email_from",
+        "allowed_values": [],
+        "value": "Newspress<support@layoutltd.com>",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Sets the email to send an email from",
+        "categories": [
+            "Notifications"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "uploader_max_size",
+        "allowed_values": [],
+        "value": "100",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the user to upload a max number of bytes in the uploader",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_issue_number",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enables the use of issue number for articles instead of issue date",
+        "categories": [
+            "Articles"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "recent_news_interval",
+        "allowed_values": [],
+        "value": "10",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define number of minutes under which a news item is considered recent.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "text_news_display",
+        "allowed_values": [],
+        "value": "200",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define number of text news to display per page in news module",
+        "categories": [
+            "News Module"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "npressxt_qcd_qcp_folder",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/extension_files\/qcd_qcp_files\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "NPXT"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "checkout_download_images",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Hide and show checkout and download option",
+        "categories": [
+            "Images"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "words_per_column",
+        "allowed_values": [],
+        "value": "100",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Number of words per columns",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_forbid_status_update",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "If active, no status updates occur on ciner.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "page_planning",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Activate\/De-activate page planning module.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pw_create_empty_box",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the creation of empty boxes even if value is empty.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_related_page",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the user to view the related pages in edit and view article page.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_create_revision",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the creation of revisions on item update.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cw_replace_chars",
+        "allowed_values": [],
+        "value": ". , - : ~ ` @ & * + _ > < ? !",
+        "default_value": ". , - : ~ ` @ & * + _ > < ? !",
+        "recommended_value": "",
+        "description": "Defines the characters (separated by space) to be replaced by empty space in the Words Count functionality.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "dummy_title",
+        "allowed_values": [],
+        "value": "\u0639\u0646\u0648\u0627\u0646",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define a dummmy title if title is empty on article save.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dummy_subtitle",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define a dummmy subtitle if subtitle is empty on article save.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dummy_byline",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define a dummmy byline if byline is empty on article save.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dummy_body",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define a dummmy body if body is empty on article save.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dummy_caption",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define a dummmy caption if caption is empty onupload image.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_request_module",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Hides and displays the request module.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "caption_field",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define in what field the image caption should be saved (0 for Description, 1 for Caption).",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_refresh_rate",
+        "allowed_values": [],
+        "value": "60",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Defines the refresh publish rate value.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "set_as_image_archiver",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Set Newspress to function as an image archiving module",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "smart_search",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allows the search according to smart search using thesaurus",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "embed_iptc",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enables the user to embed iptc data in the image.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "search_days_range",
+        "allowed_values": [],
+        "value": "60",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Number of days behind to search for by default when opening search pages (Articles and Images).",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "extractor_basesrc",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/archive\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Determines the archive destination path.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "merge_caption_description",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Inserts both caption and description in descripition field.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ratio_of_similarities",
+        "allowed_values": [],
+        "value": "60",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Minimum ratio that an article or a title must meet in order to show up in the similarities popup window.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_subtitle",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Hides article subtitle.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "hide_subtitle2",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Hides article subtitle 2.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "create_page_preview_revisions",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Activate page preview revisions",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "epaper_export_folder",
+        "allowed_values": [],
+        "value": "E:\/Epaper\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Should be the full path, (Ex: C:\/....\/ and ending with forward slash",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_comments_tab",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Hides comments tab on Add\/Edit and View Article pages.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "image_max_size",
+        "allowed_values": [],
+        "value": "20",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Determines max size of an image in My Uploader module in MB.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_assign_to",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "If set to 1 hides the Assigned To field in Add\/Edit article page.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "autosave_interval",
+        "allowed_values": [],
+        "value": "60",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Interval in seconds between each auto-save on article body.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "apply_french_rules",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enables french rules.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "edit_caption_from_article",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enables editing caption from article.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "escape_id_tags",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "article_display_order",
+        "allowed_values": [],
+        "value": "subtitle,title,subtitle2",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Defines the order of the article",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_rich_text",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Shows or hides the Rich Text feature on Add\/Edit Article page.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pw_safe_update",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "session_expiry_time",
+        "allowed_values": [],
+        "value": "100000",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define the time before a session expires if left idle, in minutes.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "quicksearch_days_back",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "3",
+        "recommended_value": "",
+        "description": "Define in number of days how old the article can be to appear in quicksearch.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "quicksearch_restrict_by_section",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, will restrict quicksearch to sections allowed by the user.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "user_multiple_downloads",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Allows the same user to download same template file several time.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dnd_remove_extra_breaks",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "multiple_image_checkin",
+        "allowed_values": [],
+        "value": "jpeg,jpg,tiff,tif,png",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "display_lines",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to larger than 0, defines the number of lines to be displayed in preview texts.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "fck_body_size",
+        "allowed_values": [],
+        "value": "1000",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Sets the fck body size.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pma_separator",
+        "allowed_values": [],
+        "value": "@",
+        "default_value": "%",
+        "recommended_value": "",
+        "description": "Define the PMA file separator.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pw_default_page",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Defines the default page selection.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "case_sensitivity_fix",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, turns on the code to fix case sensitivity issues on search articles and images. This can cause problems with some characters (arabic).",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "get_img_title_from_name",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, image title is taken from IPTC.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "remove_last_user_search",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, user wont see the last user search.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "clean_words",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, it activates the clean word functionality.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "quark_v8",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, identifies that Quark used is version 8.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "french_rules_without_spaces",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, no spaces will be added before and after french quotes",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pm_copy_preview",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 0, no jpeg previews will not be copied on COPY & LOAD.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pw_update_article",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 0, then updating back from ID\/Quark will only update ciner tables",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_refresh_timer",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Hides the refresh timer on pages such as Recent articles. 0:refresh enabled; 1:disabled; 2:enabled in page tracker only; 3: enabled in page management only.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "refresh_timer_count",
+        "allowed_values": [],
+        "value": "45",
+        "default_value": "120",
+        "recommended_value": "",
+        "description": "Refresh timer count.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "image_min_size",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Minimum image size.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "attach_news_provider",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Adds the provider name to the caption when converting an image.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "assign_template_redirect",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable redirection to pages list on assign template.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pm_copy_pdf_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path of PDF files to be copied to when uploaded to ID\/Quark.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "enable_snippet",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enables Snippet.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "issue_num_script_date",
+        "allowed_values": [],
+        "value": "sun",
+        "default_value": "sun",
+        "recommended_value": "",
+        "description": "Ex. mon tue wed thur fri sat",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pl_show_section",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Show Section on post download and list pages if set to 1.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "art_page_required",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "print_image_size",
+        "allowed_values": [],
+        "value": "small",
+        "default_value": "small",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "Image size on Print Article page (small or large)."
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_np_space",
+        "allowed_values": [],
+        "value": "\\\\a7live\/a7_np_space\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "e.g:\\\\192.168.1.104\/dam_data\/np\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "archive_space",
+        "allowed_values": [],
+        "value": "\\\\V752_CORP\/A7LiveShare1\/archive_space\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "e.g:\\\\192.168.1.104\/dam_data\/np\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "archive_is_active",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_url",
+        "allowed_values": [],
+        "value": "https:\/\/a7live.client\/a7pro\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "URL Path to the A7pro installation folder e.g:http:\/\/192.168.1.104\/DAM\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "exiftool_path",
+        "allowed_values": [],
+        "value": "C:\/general\/exiftool\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path To the Exif Tool; e.g: C:\/general\/exiftool\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "periodic_password_change",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Defines the number of days in which the user changes the password.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dvd_limit",
+        "allowed_values": [],
+        "value": "4600",
+        "default_value": "4600",
+        "recommended_value": "",
+        "description": "Maximum Size Of A DVD In MB ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "n_module_version",
+        "allowed_values": [],
+        "value": "2",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 2, activate News Module Version 2.0 (with unified text and images).",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "db_charset",
+        "allowed_values": [],
+        "value": "UTF-8",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Defines cutomer database encoding. For customer with unicode DB put UTF-8 else keep balank",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "gallery_thumb_size",
+        "allowed_values": [],
+        "value": "100:120",
+        "default_value": "100:120",
+        "recommended_value": "",
+        "description": "Specifies the size of the image thumb in media gallery. Its format should be \"width:height\" e.g: \"100:120\"",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "restrict_event_allowed_sections",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 restrict sections in events module to allowed sections.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_archive_status",
+        "allowed_values": [],
+        "value": "5",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Define the status id given to the files that would be archived in A7.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "restrict_pages_by_section",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dw_open_popup",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dl_name_format",
+        "allowed_values": [],
+        "value": "%PubInit%_p%page%_%d%-%m%-%Y%",
+        "default_value": "%PubInit%_p%page%_%d%-%m%-%Y%",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_drag_caption_with_image",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, image caption is automatically filled when dragging a single image",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_multiple_subtitles",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, enables multiple subtitles on articles.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "pp_update_article_page",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, when changing pages on page planning, update article page as well.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_sound",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Enable or disable sound notifications.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "py_path",
+        "allowed_values": [],
+        "value": "C:\/general\/text_converter\/",
+        "default_value": "C:\/general\/text_converter\/",
+        "recommended_value": "",
+        "description": "Path to file DocumentConverter.py",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_news_dummy_article",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, upon converting images from news module, create virtual article.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_id_embed",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, activate Publish Window in Indesign.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_update_article_page",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Update Article Page On Drag And Drop.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_hide_preview_pane",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Hides Preview Pane In Publish Window.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "riyadh_workflow",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Riyadh WorkFlow",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_version",
+        "allowed_values": [],
+        "value": "2",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Define which Publish Window version to be displayed.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_activate_yellow_flag",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Activate Yellow Flag in Publish Window",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_exif_data",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable Exif Data",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_chat",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable Chat",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "activate_simple_admin",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, activate the simple admin mode.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sms_credentials",
+        "allowed_values": [],
+        "value": "url;;;;https:\/\/127.0.0.1:25443\/pms\/trigger\/push.php?<sep>username;;;;your_username<sep>password;;;;your_pass<sep>coding;;;;0<sep>sc;;;;88559",
+        "default_value": "url;;;;https:\/\/127.0.0.1:25443\/pms\/trigger\/push.php?<sep>username;;;;your_username<sep>password;;;;your_pass<sep>coding;;;;0<sep>sc;;;;88559",
+        "recommended_value": "",
+        "description": "Credentials for sending SMS",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "twiiter_credentials",
+        "allowed_values": [],
+        "value": "consumer_key;;;;1<sep>consumer_password;;;;2<sep>authen_token;;;;3<sep>authen_token_secret;;;;4",
+        "default_value": "consumer_key;;;;1<sep>consumer_password;;;;2<sep>authen_token;;;;3<sep>authen_token_secret;;;;4",
+        "recommended_value": "",
+        "description": "Credentials for twitter",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "save_article_alert",
+        "allowed_values": [],
+        "value": "60",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Alert the user to save the article if it is new. If set to zero, then it would be disabled.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "disable_byline",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Disable the byline in Add-Edit Article.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_arabic_search",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enables the arabic search.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "enable_hijri_calendar",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enables the hijri calendar.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "backup_folder_path",
+        "allowed_values": [],
+        "value": "E:\/offline_backup_folder\/",
+        "default_value": "c:\/offline_backup_folder\/",
+        "recommended_value": "",
+        "description": "Path for articles offline backup folder.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_author_image",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable link of author image in add\/edit article.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "customer",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "View panel per customer in add\/edit article.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_articles_flags",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Hides articles flags option.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "qrco_link",
+        "allowed_values": [],
+        "value": "https:\/qrcoclient",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "http:\/\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "publish_articles_folder",
+        "allowed_values": [],
+        "value": "E:\/website_publish\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path for publish articles folder. e.g: C:\/testing_publish\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "remove_pl_suffix",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Remove .indd or .qxp from file name in New File in page list",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "li_launcher_path",
+        "allowed_values": [],
+        "value": "C:\/xml_launcher\/",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Path of xml launcher",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "append_author_on_select",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Append author to byline or body in add\/edit article page.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "hide_maintenances",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "hide maintenances if 1",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "disable_article_name",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 then user cannot edit article name in add\/edit article. ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_delbox_change_status",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Enable Change Status On Delete Box",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "plugin_images_temp_folder",
+        "allowed_values": [],
+        "value": "E:\/Designers\/Temp\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path for image temp folder of plugin, e.g: C:\/tempFolder\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "multi_publishing",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Multi Publishing",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_paperless_workflow",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable paperless workflow",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "paperless_forbidden_statuses",
+        "allowed_values": [],
+        "value": "-1",
+        "default_value": "-1",
+        "recommended_value": "",
+        "description": "Paperless Forbidden Statuses",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ad_links_hot_folder_path",
+        "allowed_values": [],
+        "value": "..\/..\/npspace\/ad_hot_folder\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Ad Links Hot Folder Path",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "plugin_images_temp_path",
+        "allowed_values": [],
+        "value": "E:\/Designers\/Temp\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Plugin Images Temp Path",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "social_msg_chars_limit",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Social Message Characters Limit",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_url",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "http:\/\/192.168.1.32\/newspress_website\/",
+        "categories": [
+            ""
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "cms_zones_xml_file_path",
+        "allowed_values": [],
+        "value": "C:\/cms_zone.xml",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Path of the XML file containing website zones positions.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "openoffice_path",
+        "allowed_values": [],
+        "value": "C:\/Program Files\/OpenOffice.org 3\/program\/",
+        "default_value": "C:\/Program Files\/OpenOffice.org 3\/program\/",
+        "recommended_value": "",
+        "description": "Path To OpenOffice",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "openoffice_python_path",
+        "allowed_values": [],
+        "value": "C:\/Program Files\/OpenOffice.org 3\/program\/python",
+        "default_value": "C:\/Program Files\/OpenOffice.org 3\/program\/python",
+        "recommended_value": "",
+        "description": "Path To OpenOffice Python Path.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pdf_name_in_extractor",
+        "allowed_values": [],
+        "value": "%Y%%m%%d%%p%_%pub_initial%",
+        "default_value": "%Y%%m%%d%%p%_%pub_initial%",
+        "recommended_value": "",
+        "description": "PDF name in extractor.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "connector_url",
+        "allowed_values": [],
+        "value": "http:\/\/www.layoutworkflows.com\/connector\/",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Connector URL",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "connector_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Connector path in the server",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "colored_images_folder_path",
+        "allowed_values": [],
+        "value": "C:\/colored_photos\/",
+        "default_value": "C:\/colored_photos\/",
+        "recommended_value": "",
+        "description": "Colored Images Folder Path",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "os_type",
+        "allowed_values": [],
+        "value": "linux",
+        "default_value": "windows",
+        "recommended_value": "",
+        "description": "Server Operating System Type",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_macros",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable Macros Module in AddEdit Article Page",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "customer_news_email",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Customer Email address used to send news providers status report",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "mp_results_per_page",
+        "allowed_values": [],
+        "value": "100",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Number of result per page for the main page",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "text_amendment_popup",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Open Text Amendment In Paperless Workflow As Popup",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "np5",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if this config is 1 we put style and header of  newspress 5 in page",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "news_parser_url",
+        "allowed_values": [],
+        "value": "http:\/\/192.168.0.45\/newsparser\/",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "URL of the news_parser application to be accessed from NP",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "color_management",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Activate color management feature for A7X",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "color_management_in_folder",
+        "allowed_values": [],
+        "value": "E:\/clientpath\/in\/",
+        "default_value": "\\\\192.168.1.114\/a7x_np_space\/in\/",
+        "recommended_value": "",
+        "description": "Path of color_management_in_folder",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "color_management_out_folder",
+        "allowed_values": [],
+        "value": "E:\/clientpath\/out\/",
+        "default_value": "\\\\192.168.1.114\/a7x_np_space\/out\/",
+        "recommended_value": "",
+        "description": "Path of color_management_out_folder",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "color_management_wait_time",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "10",
+        "recommended_value": "",
+        "description": "The time that the system waits for the file to be found in the out folder",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ad_default_role_id",
+        "allowed_values": [],
+        "value": "13",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "The default roleid of the user that is imported from the active directory",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "demo_date",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "05-09-2012",
+        "recommended_value": "",
+        "description": "A demo date for all the system e.g 05-09-2012",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enabled_macros",
+        "allowed_values": [],
+        "value": "clean_space,manage_paragraph,clean_text2",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Define the enabled macros as a comma separated string. Possible values: clean_text, clean_text2, replace_text, clean_space, clean_brackets, manage_paragraph, manage_apply_macros; Ex: To enable the clean text and replace text macros, write \"clean_text,replace_text\". Keep empty or write 0 to disable all macros.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "color_management_image_extension",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "The default extension of the image after going through the color factory.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_forbid_image_status_update",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "To forbid updating the image status from publish window on DND; Depends on the config pw_forbid_status_update.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_font",
+        "allowed_values": [],
+        "value": "\u064fTimes New Roman",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Change article font, if empty default (tahoma) is selected.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sphinx_path",
+        "allowed_values": [],
+        "value": "C:\/general\/Sphinx\/",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Sphinx path (with trailing slash, without the bin part); Ususally C:\/general\/Sphinx\/",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "news_searching_method",
+        "allowed_values": [],
+        "value": "sphinx",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "News module search method; possible values: \"mysql\", \"sphinx\"",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ppi_xml_files_path",
+        "allowed_values": [],
+        "value": "\\\\v752_corp\/NP-PPI\/xmlexport\/",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "The path where PPI XML files are located. example: D:\/ppi_xml\/;",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "plugin_notifier_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "An external URL used to notifiy when indesign, pdf or jpeg are checked in from plugin.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "enable_article_extra_info",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enables article extra info field in Add Edit article page.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "xml_out_for_ppi_path",
+        "allowed_values": [],
+        "value": "\\\\v752_corp\/NP-PPI\/xmlimport\/",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "The path where the out XML (in for PPI) along with its corresponding PDFs will be copied. example: D:\/ppi_xml_out\/;",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "activate_page_checkout_privilege_on_text_amendment",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "When a user access the text amendments tab, the page would br automatically checkedout by him.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_free_drawing_default_color_only",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1 we show in free drawing default color only , If 1 we show all circules of colors",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "move_related_pages_as_one_page",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1 then after we move related pages they are treated as one page, so that the user has to merge them again",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sphinx_max_matches",
+        "allowed_values": [],
+        "value": "1000",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Sphinx limit to define the max number of results to be fetched in news module.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_related_articles",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Set to 1 to enable related articles section in edit CMS article.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_article_flags",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Set to 1 to enable articles flags section in edit CMS article.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_seo",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Set to 1 to enable SEO section in edit CMS article.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_article_options",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Set to 1 to enable article options section in edit CMS article.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_polls",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Set to 1 to enable polls section in edit CMS article.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "similar_articles_number_of_days",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "set the number of days for similar articles.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "news_module_max_idle_time",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Idle time in seconds before news module refreshes.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "inherit_ad_image",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Determines whether or not the ad link inherits the main ad image.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pm_results_per_page",
+        "allowed_values": [],
+        "value": "100",
+        "default_value": "100",
+        "recommended_value": "",
+        "description": "Determines the number of pages to view per page in page management. Note that if the config is 0 then the pagination is disabled.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "keep_page_amendments_after_refresh_from_ciner",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "100",
+        "recommended_value": "",
+        "description": "When set to 1, it prevents deleting the text ammendments of a box in a page, after refreshing its contents from ciner (from NP InDesign plugin).",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "max_news_selected",
+        "allowed_values": [],
+        "value": "20",
+        "default_value": "20",
+        "recommended_value": "",
+        "description": "When set to a value x, it allows the selection of x items of news in News Module. If not set, the default is 20.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ads_report_v2_columns",
+        "allowed_values": [],
+        "value": "title,ad_number,type,page_number,category,size,color,agency,ad_page",
+        "default_value": "title,ad_number,type,page_number,category,size,color,agency,ad_page",
+        "recommended_value": "",
+        "description": "Choose which columns to display and export in ads_report_v2.",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ads_detailed_data_report_columns",
+        "allowed_values": [],
+        "value": "publication,issue_date,section,page_number,status,title,ad_size,ad_page,ad_number,color,agency,reservation_time,reseerved_by,upload_time,uploaded_by,download_time,downloaded_by,difference_time,description,price",
+        "default_value": "publication,issue_date,section,page_number,status,title,ad_size,ad_page,ad_number,color,agency,reservation_time,reseerved_by,upload_time,uploaded_by,download_time,downloaded_by,difference_time,description,price",
+        "recommended_value": "",
+        "description": "Choose which columns to display and export in ads_detailed_data_report.",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "convert_po_to_mo_url",
+        "allowed_values": [],
+        "value": "http:\/\/demo.layoutintl.com\/newspress_en\/app\/general\/convert_po_to_mo.php",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "URL of the file to convert PO file to MO",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "convert_po_to_mo_folder_name",
+        "allowed_values": [],
+        "value": "language_files",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Name of the folder to replace the PO and MO files",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": true
+    },
+    {
+        "index": "nm_line_space",
+        "allowed_values": [],
+        "value": "15",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Line spacing in News Manager",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "use_new_my_sent_articles_logic",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Use the new my sent articles logic.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "access_allowed_ips",
+        "allowed_values": [],
+        "value": "0.0.0.0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "IPs Allowed to access the system",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "translate_version",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 1 it will use the old translation method, if set to 2 it will use the new po and mo files logic of translation.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_api_url",
+        "allowed_values": [],
+        "value": "api.a7pro",
+        "default_value": "api.a7pro",
+        "recommended_value": "",
+        "description": "Copy To NP a7_api_url",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_api_secret_key",
+        "allowed_values": [],
+        "value": "sghandour@layoutintl.com:342b34fcaf5d0eff6ace8a932ae3a2d275588dc1",
+        "default_value": "sghandour@layoutintl.com:342b34fcaf5d0eff6ace8a932ae3a2d275588dc1",
+        "recommended_value": "",
+        "description": "Copy To NP a7_api_secret_key",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7_api_version",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Copy To NP a7_api_version",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "archive_left_panel",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Activate Copy To Np from left panel.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "apply_new_copy_and_load_logic",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 1 it will use the new logic in copy\/move and load, set to 0 to keep old logic.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "system_currency",
+        "allowed_values": [],
+        "value": "$",
+        "default_value": "$",
+        "recommended_value": "",
+        "description": "Currency symbol to be used throughout the system.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "max_news_before_refresh",
+        "allowed_values": [],
+        "value": "50",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Max number of news that could be displayed after clicking the \"red notification\". The page will refresh when the number exceeds this value.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "assign_article_to_multiple_pages",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Ability to assign article to multiple pages.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ap_currency",
+        "allowed_values": [],
+        "value": "AED",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "currency for Author Payment module",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sphinxql_ip_port",
+        "allowed_values": [],
+        "value": "127.0.0.1:9306",
+        "default_value": "127.0.0.1:9306",
+        "recommended_value": "",
+        "description": "Set the Ip and Port used by sphinxql.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "allow_user_special_privileges",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Ability to set special priveleges per user that overrides his role privileges.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "use_text_editor_on_print_publication",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Ability to use a text editor on print publication.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_issue_number_ads_module",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "ads module should work based on issue numbers.",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "use_paging_on_news_module",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "News module uses pagination instead of \"LOAD MORE\" if set to 1",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "support_email_on_login",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "new_ad_open_link",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 after creating a new ad, edit ad link popup is opened to set the position.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "delete_non_dragged_items_on_syncronization",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 on syncronization non dragged article fields will be emptied, if set to 2 delete only static fields contents in case they were not dragged",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "mobile_auto_redirect",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enable or disable mobile auto redirect.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "date_format_display",
+        "allowed_values": [],
+        "value": "%d-%m-%Y",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Display date format",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "measurement_system",
+        "allowed_values": [],
+        "value": "metric",
+        "default_value": "metric",
+        "recommended_value": "",
+        "description": "Measurement system used in Newspress: metric or imperial.",
+        "categories": [
+            "system"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "news_basket_move_item",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, delete news item from current basket",
+        "categories": [
+            "news"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "default_width_unit_column",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Ad default width unit: 1 for column, 0 for cm (or inch if using imperial system)",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ads_jump_interval",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Ad detailed view: ammount of slow move.",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "nhm_iframe_src",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Mobile link if config not null ",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "new_ad_follow_plan",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "Define the default follow_plan flag for new ads",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "indesign_protocol",
+        "allowed_values": [],
+        "value": "http",
+        "default_value": "http",
+        "recommended_value": "",
+        "description": "in case of pni replace all the links that are dragged to indesign to pni.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "track_ads_display_fields",
+        "allowed_values": [],
+        "value": "page_number,ad_number,ad_page,ad_size",
+        "default_value": "page_number,ad_number,ad_page,ad_size",
+        "recommended_value": "",
+        "description": "The Display values follow the order of this config. Possible value are 'page_number', 'ad_number', 'ad_page', 'ad_size', 'agency_name', 'ad_color'",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "claro_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Claro URL to be used in the cropping tool. (related configs: claro_api_key)",
+        "categories": [
+            "system"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "claro_api_key",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Claro API key to be used in the cropping tool. (related configs: claro_url)",
+        "categories": [
+            "system"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_advanced_plan",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "When set to 1 enabled advanced plan , set to 0 disabled",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_claro",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "When set to 1 enabled claro , set to 0 disabled",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_document_preset_per_page",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "When set to 1, show the document presets page in advanced plan",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "missing_terms_log",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, log and display missing terms (language keys)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "change_format_event",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, They want to change the months in the events in the arabic language(ex:change \u0623\u064a\u0644\u0648\u0644 to \u0633\u0628\u062a\u0645\u0628\u0631)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "synchronize_max_box_number",
+        "allowed_values": [],
+        "value": "30",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Max number of article boxes to be used in page validator, and on synchronize",
+        "categories": [
+            "system"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "articles_font",
+        "allowed_values": [],
+        "value": "arial",
+        "default_value": "arial",
+        "recommended_value": "",
+        "description": "Ability to change articles font. We have clients who use specific font. okaz : ( tahoma,Helvetica,sans-serif ) , anbaa : ( Delicious ) , jomhooriyya : ( Times New Roman ). ",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_multi_section",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Enables multi section selection on CMS articles",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "watermark_automatic_check",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 disable watermark checkbox, 1 enables it",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "popup_articles_similarties",
+        "allowed_values": [],
+        "value": "3",
+        "default_value": "3",
+        "recommended_value": "",
+        "description": "0 no similarities, if 1 similarities only on checkin, if 2 similarities only on check out, if 3 similarities on both checkin and checkout",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dtp_load_template_date",
+        "allowed_values": [],
+        "value": "0000-00-00",
+        "default_value": "0000-00-00",
+        "recommended_value": "",
+        "description": "Format: Y-m-d. Date to be used as template directory for a given publication",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "refresh_from_ciner_mode",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "gets the data from the ciner table (if no text amendment is there) , does not get the data from the ciner table (if no text amendment is there) , gets the latest text amendment if it has one, or else get the data from the ciner table",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "archive_folder_structure",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "create archive for the structure post download",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "page_plan_actions",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Comma separated string of page plan actions, will be taken into consideration only if 'disable page plan' is checked. Full list is: 'add_pages_to_plan,remove_pages_from_plan,delete_single_page,move_pages,merge_pages,swap_pages,full_plan_logs,export_page_plan,load_maquette,save_as_maquette,restore_revision,page_deadline_new,reset_plan_document_size'",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ad_position_grid",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "0 disables the feature and 1 enables the feature",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_images_count",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 : show the overall number 1: show only the images that can be dragged",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_strong_password",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1 enable strong password ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "filter_disable_uri_list",
+        "allowed_values": [],
+        "value": "\/jquery_uploader\/server\/php\/",
+        "default_value": "\/jquery_uploader\/server\/php\/",
+        "recommended_value": "",
+        "description": "filters will skip the given URIs (Comma seperated list)",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "mysql_safe_query_enabled",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "mysql_query will quote input parameters",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "csrfp_enabled",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "CSRF protection enabled",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "newspress_session_id_regenerate_count",
+        "allowed_values": [],
+        "value": "5",
+        "default_value": "5",
+        "recommended_value": "",
+        "description": "Session ID will regenerate on Nth request (0 is disabled)",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "allowed_np_folders_for_request_params",
+        "allowed_values": [],
+        "value": "backup,npspace",
+        "default_value": "backup,npspace",
+        "recommended_value": "",
+        "description": "Request parameters with filepath can only access these folders (\"backup,npspace\" is default to enable)",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "allowed_domains_for_request_params",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Request parameters with url is only accepted from these domains (eg : \"http:\/\/NEWSPRESS_DOMAIN\/newspress5,http:\/\/A7PRO_DOMAIN\/a7pro2\")",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "validate_uploaded_files_mime_type",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "On fileupload mimetype of file should match the file extension",
+        "categories": [
+            "security"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "fill_image_name_in_caption",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if 0: do not fill the caption\/description",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "event_article_name",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: Use event id instead of name",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "image_search_zoom",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: on hover in recent image filter we can zoom",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "unlock_username_time",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 0: feature disabled else number of minutes to check before lock account",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "calendar_language",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1, apply the turkish calendar",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "update_article_categories",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": " ",
+        "recommended_value": "",
+        "description": "update article categories on article duplicate",
+        "categories": [
+            "Articles"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_all_articles_in_annotation",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "when set to 1 it will not consider page number",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "delete_template_with_boxes",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Disallow delete template if it has boxes",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "thumbnail_preview_size",
+        "allowed_values": [],
+        "value": "1000",
+        "default_value": "1000",
+        "recommended_value": "",
+        "description": "thumbnail preview size",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "open_news_module_mode",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "open in new window or tab. 0 means new tab",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "open_news_module_filter_basket_mode",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "open in new window or tab. 0 means new tab",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "nconvert_custom_cms_preview_params",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "-icc_ie -rflag orient -rexifthumb -dpi 72 -q 90 -ratio -resize 1000 1000 -out jpeg -truecolors",
+        "recommended_value": "",
+        "description": "Set the default params for generating the 600 thumbnails, used in CMS",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "paperless_refresh_interval",
+        "allowed_values": [],
+        "value": "15",
+        "default_value": "20000",
+        "recommended_value": "",
+        "description": "Refresh the preview in paperless TA every X seconds.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sent_articles_filter_section_independent",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if this config is 1 My Sent Articles filter should show all sent stories",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_articles_for_allowed_sections_in_annotations",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if this config is 1 Annotations popup should show all articles",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "plugin_images_temp_action",
+        "allowed_values": [],
+        "value": "move",
+        "default_value": "move",
+        "recommended_value": "",
+        "description": "copy\/move ( images on synchronize ) from Designers temp folder to NewsPublish",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "copy_from_word",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "0: deactivate copy from word,1: activate copy from word in ( add edit article ),2: activate copy from word in ( text amendment ),3: activate copy from word in ( add edit article, text amendment )",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_article_name_on_list_view",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "show article name instead of article title in list view",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "invert_editor_colors",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0: disabled, 1:enabled ",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "keep_page_reserved_on_status_change",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0: deliver the page, 1: keep it as is",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_publish_xml",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "cms_publish_xml : site_core: it will be used for sitecore(THE STAR) to export cms article as xml ",
+        "categories": [
+            "polopoly article images"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "assign_template_number",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 : do not assign selected page into dropdown of template list . 1 means otherwise, assign page nbr in dropdown",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "maintain_indesign_versions",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "when set to 1, to save the versions whenever a document is to be replaced",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "keep_article_flag_on_duplicate",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1: When duplicating stories( the flag chosen in Article1, should be also assigned automatically on Article2 )",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "plugin_allowed_ip_range",
+        "allowed_values": [],
+        "value": "0.0.0.0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Define IP range for ciner access. Example: '192.168.0.'. Example: '172.18.'",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "reset_article_assignee_on",
+        "allowed_values": [],
+        "value": "checkout",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "resets article assignee on checkout\/checkin or empty(do not reset) if the assignee is the user working on the article",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "send_email_on_admin_login",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": " if set to 1, the email will be sent, if set to 0, no emails will be sent.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "seo_tags_hide_fields",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "hidde fields in seo tags page",
+        "recommended_value": "",
+        "description": "hidde fields in seo tags page Values(name,normalized_name,number_of_occurencies,website_tag,first_use,last_use)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_seo_in_menu_list",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "display seo tags dropdown list in menu",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "columnist_enabled",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 then we can set the author to columnist or not",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_cxense",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable cxense to perform api calls",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pw_search_without_date",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 then we can search in publish window ignoring the selected date",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dynamic_fields_location",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "dynamic fields location above(default - 1) the body or below (2)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_enable_article_widget",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "enable cms article widget",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "disable_updating_modification_date",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 the last edited time won't change when we change status from Stories And Media",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_zoom_in_TA",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1 enable zoom , 0 disable it in Text amendment",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "patch_server_url",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Server url where the patches would be checked and downloaded",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "inactivity_days",
+        "allowed_values": [],
+        "value": "35",
+        "default_value": "35",
+        "recommended_value": "",
+        "description": "Disallow login if user did not login for a while",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "author_category",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "author categories to be used in author management",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_show_annotations_on_paperless",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable annotations in text ammendments",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "on_refresh_force_indesign_header",
+        "allowed_values": [],
+        "value": "<UNICODE-%PLATFORM%>",
+        "default_value": "%PLATFORM%",
+        "recommended_value": "",
+        "description": "Use WIN to preserve soft return",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "popup_similarity_on_all_publications",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if set to 1, the similarity popup should show as usual on all publications. if set to 0, then it should show only when duplicating on the same publication.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_article_thumbnail_image",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable article thumbnail image in story editor",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_image_exclude_from_gallery",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable exclude from gallery image in story editor",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_lead_image",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable lead image in story editor",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "authors_payments_version",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "1: authors payments version 1 for bayan, 2: authors payments version 2 for roeya, 3: authors payments version 3 for inquirer",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_next_status",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, Next Status button will get enabled in the story editor, If set to 0, this feature will be disabled.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "prevent_save_on_name_duplicate",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1: the user cannot save or deliver an article if there is a duplicate of the article name value. If set to 0, the user can skip.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pm_swap_page_numbers_only",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "For swap pages. 0: Same old logic where we swap the files names. 1: Swap pages numbers, swap across plans is not allowed in this case.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "archive_duplicate_image",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: if the article is duplicated on a different publication, it should be archived once and linked to other articles, If set to 0, keep it as it is.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "send_original_image",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1: send the original image to the api, If set to 0, keep it as it is.",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ads_height_width_order",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1: display height before width, If set to 0, keep it as it is.",
+        "categories": [
+            "ads"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "default_page_preview_percentage",
+        "allowed_values": [],
+        "value": "55",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "preview zoom default value",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "drupal_lock_enabled",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, all checkouts will lock the drupal content also",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dnd_body_multi_fields",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if set to 1 Remove the whole line, if set to 2 Keep the line (and the paragraph with its styles), but keep it empty, if set to 3 Keep the line (and the paragraph with its styles), keep also the variable text",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sync_fields_from_body",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 sync fields from body",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "wordpress_custom_fields_enabled",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 wp custom fields will be displayed ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_mandatory_multi_sections",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1 check for more than 1 multi section upon article save ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_article_name_on_list_view2",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1 show article name , 0 article title in list view 2",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "restrict_send_to_all_sections_by_publication",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "restrict send to all nsections by publication",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "iptc_caption",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "1: use iptc content in caption 0 use image caption",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_page_name",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1: show page name",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_mandatory_cropping",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1 at least image should be cropped ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "restrict_by_section_in_advanced_search",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": " if set to 1: limit the advance search based on sections permissions, If set to 0: search for all articles, regardless of the sections permissions",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "do_not_consider_language",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "0: Use secondary text for section,article status,image status,page status,publication,ads",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_ckeditor_image_desc",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable ckeditor in image description",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "incopy_server_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "incopy_server_path",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "incopy_user_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "incopy_user_path",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "apply_default_images_cropping",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1: Crop images by default on focal point",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "search_subarticle",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if set to 1, sub-articles will be searchable using quick search, advanced search and filters.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "restrict_modify_annotation_article_to_creator",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "1: restrict modify annotation article to creator",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "generate_thumb_based_on_article_status_color",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1, the pages thumbnails will have colored boxes based on the articles status colors.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "application_background_color",
+        "allowed_values": [],
+        "value": "#f3f4f4",
+        "default_value": "#f3f4f4",
+        "recommended_value": "",
+        "description": "application background color",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "color_annotation_by_page_status",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": " If set to 1, colour the annotation with the page status colour. If set to 0, colour the annotation with the default blue colour.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "remove_special_characters_in_body",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 0, keep the special characters such as emojis, trademark, copyright...etc in the story body. If set to 1, remove those characters from the story body once added by the user.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "page_tracker_version",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "If set to 1, normal page tracker,. If set to 2, SCMP version.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "date_timezone",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "set date timezone",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dnd_ad_with_border",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0: no borders, 1: add a border for the ad in indesign, if the ad is not a full page ad",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "full_text_search",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, stories search will use full text search which is faster. Refer for NPSX-4999 for more details",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sort_by_flag_in_pw",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, the feature of sorting stories on publish window based on story flags will get enabled. If set to 0, this feature will get disabled",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "mid_plan_indicator",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set 1 a red box will be highlighted across the 2 pages that are the middle of the plan",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_sub_article_from_body",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1: show create sub article button in article body, 0 : disabled",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "free_images_key",
+        "allowed_values": [],
+        "value": "19156968-be8ce2a09a3c9bdda42b52e50",
+        "default_value": "19156968-be8ce2a09a3c9bdda42b52e50",
+        "recommended_value": "",
+        "description": "pixabay api key",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ads_import_module_version",
+        "allowed_values": [],
+        "value": "2",
+        "default_value": "2",
+        "recommended_value": "",
+        "description": "if set to 1, then enable the The Village Ads Import Module, if set to 2 then enable FratMat Ads Import Module.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "telegram_url",
+        "allowed_values": [],
+        "value": "https:\/\/telegram.premiumread.com\/",
+        "default_value": "https:\/\/telegram.premiumread.com\/",
+        "recommended_value": "",
+        "description": "Telegram URL",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "send_indd_to_ids_on_incopy_checkin",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "description: if set to 1, then on incopy checkin action, the indesign file will be sent automatically to the indesign server. If set to 0, the indesign will not be sent.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_plan_revisions",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "set to 1, it will enable restore plan revision. If set to 0, it will disable it",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "activate_manage_paragraph_on_save",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, then manage paragraph macros will be applied on article save and\/or check-in (deliver). If set to 0, manage paragraph will not be applied unless the user pressed on Manage Paragraph button",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "alert_update_issue_date",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if set to 0 update issue date will not show for future valid dates, if 0 it will function as it now",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "send_email_invalid_login",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 send email on invalid login , 0 do not send",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "indesign_article_id",
+        "allowed_values": [],
+        "value": "%article_id%",
+        "default_value": "%article_id%",
+        "recommended_value": "",
+        "description": "Use variables to set the article id in indesign: %article_id% and %article_name% are the ones currently supprted",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "delay_publishing_for_scheduled_articles",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1, the maintenance will pick those articles and publish them if date_time <= now",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "remove_duplicate_breaklines_dnd",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: remove duplicate breaklines on dnd",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "magazine_article",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: activate magazine article feature",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "download_pdfs_name",
+        "allowed_values": [],
+        "value": "%PubInit%_p%Page%_%m%_%y%.pdf",
+        "default_value": "%PubInit%_p%Page%_%m%_%y%.pdf",
+        "recommended_value": "",
+        "description": "path for download pdf",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "claro_version",
+        "allowed_values": [],
+        "value": "12",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Claro version: 11 or 12",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "allow_change_page_status_on_reserve",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "if set to 1, allow changing page status while the page is reserved by another user with same permissions, if set to 0 disallow the user from changing the page status while the page is reserved by another user with same permissions.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "static_widget_counter",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "set limit for articles in static widget, it works as limit of widget * config value. if value is empty , system will consider it as 2",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ad_merged_pages",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 : show 1 single merged option , 1 : show all merged options ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "story_editor",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 : old edit story page, 1 : new edit story page.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "activate_q_a",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "activate Q & A module in article page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "a7pro_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if the config has value then the menu item will appear. otherwise it will not",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cancel_checkout_reason_box",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "a reason box will popup when cancel checkout option is selected",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "preview_image_first_uploaded",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 1, first image uploaded to the article will be displayed on the article - In stories and media, if set to 0, last image uploaded to the article will be displayed(current logic)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "recent_images_end_date",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "If is empty then keep previous logic, is not empty, use the date in the config for the end date, in recent images",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "wordpress_article_preview_auth_code",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Wordpress article preview",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "force_publish_story",
+        "allowed_values": [],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "",
+        "description": "force publish story from article page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_body_not_dragged_skip_synchronize",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1, skip article synchronise if the article body not dragged to indesign. if set to 0, keep the current logic",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "ci_new_story",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "New article creation for community impact",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "stories_quick_search_sphinx",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1:Sphinx search on stories, 0: mysql",
+        "categories": [
+            "Articles"
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "redrag_forbidden_statuses",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 0, the user can drag the article multiple times to the InDesign page. If set to any digit number other than 0 (where the digit number should be an article status linecode), on DnD a popup will appear to notify the user if he confirms or not to drag the article more than one time to the InDesign page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "redrag_forbidden_publications",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If set to 0, the user can drag the article multiple times to the InDesign page. If set to any digit number other than 0 (where the digit number should be an article publication ID), on DnD a popup will appear to notify the user if he confirms or not to drag the article more than one time to the InDesign page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "expiry_license_message",
+        "allowed_values": [],
+        "value": "Urgent Patch required to be applied. system will go in protective mode on %expiry_date% in order to avoid data corruption.",
+        "default_value": "Urgent Patch required to be applied. system will go in protective mode on %expiry_date% in order to avoid data corruption.",
+        "recommended_value": "",
+        "description": "expiry license message",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "new_design_theme",
+        "allowed_values": [],
+        "value": "gray",
+        "default_value": "gray",
+        "recommended_value": "",
+        "description": "Theme (Gray or Blue)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "editorjs",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Toggle new editor in article page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "pagination_mode",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "0 : next\/previous pagination and total pages in stories and media, 1 : show current page + next\/previous ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_lock_sync",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "1 : lock sync on cam box id",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_widget_checkout",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1, user will be able to reserve a certain widget in advanced page content, if set to 0 keep the old logic where any user can access and modify the widgets",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "digital_dashboard_status",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "define article status comma separated for the digital dashboard category",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "template_publication_articles",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if not empty create template articles",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "cms_editors_pick",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": " if set to 0 hide the editors pick field inside the edit\/add article page, if set to 1 show the editors pick",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "drupal_setup",
+        "allowed_values": [],
+        "value": "aaa",
+        "default_value": "aaa",
+        "recommended_value": "",
+        "description": "to be filled with the appropriate drupal setup . aaa, maj, akh",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "iframely_key",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "c670d94b3bf33088ae2a42",
+        "recommended_value": "",
+        "description": "iframe.ly API key",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "polls_as_quizzes",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Turn Polls widgets into Quizzes",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "advanced_page_content_permissions",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 1: if the user has access to sections selected in advanced page list, user will see the pages",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_article_additional_info",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if 0, disable the additional info box, if we want to enable it, we need to add the info box template id to choose which info box design we need to add",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_editorjs_theme",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "enable\/disable component editor custom theme toggler",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "wp_sync_static_article",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if set to 1, display button to sync static articles",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "Replace_line_break_with_space_on_synchronize",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if empty keep the current logic, if you add any article xml name e.g keywords, seo_metadescription etc. then replace the line break with space on synchronize action on these fields",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "force_https",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if set 1, force all the links coming from NP to use https, if set 0, use the current value in $_SERVER.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "do_not_translate",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if empty or 0, dont show \"do not translate\" button for articles in thumbs view 2",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "default_selected_template",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "template article ID selected on article creation",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "jwplayer_search_api_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "JW player search videos API URL",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "stories_and_media_image_enlarge",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "0 or empty: default, 1: enlarge",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "jw_player_site_key",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "jw player key (Site ID)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "jw_player_site_token",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "jw player token",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "editorjs_remove_font_tools",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "remove font inline tools from editorjs toolbar by name (comma separated). example: italic,underline,size",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "allow_external_authors",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "Allow users to add external authors who do not have a record in authors table",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "validation_on_update_timestamp",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "If 0 (default), the old way which is the first cut and paste will be body 1 and so on, If 1, the current way which is sending the order by using the \"update selected\"",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "push_notification_title",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Widgets web push notifications title",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "email_notification_from_name",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Widgets web email notifications sender name",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "email_notification_from_email",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Widgets web email notifications sender email",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "swap_subtitles_to_headers",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "if set 1, subtitles will be converted to header in component editor.",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "copy_from_word_clean_style",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "remove style and align tags from pasted text from word",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "use_multiple_newsletter",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Allow user to set multiple pages as newsletter",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "sphinx_last_articles_update_date",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "The last indexed article update date for Sphinx incremental indexing (Y-m-d H:i:s)",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "news_module_export_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "The location on the server where you want the news images to be exported",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "login_with_adfs",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1 login with adfs ",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "word_to_ckeditor_pandoc_path",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Pandoc plugin path on the server. For \"import from word\" option",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "dnd_ciner_data",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "if set to 1, use SCMP dnd logic",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "project_manager_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "project manager system main url",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "show_reset_password",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "show reset password",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "article_print_preview_server_endpoint",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Set the server URL of the article print preview feature to enable it",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "enable_seo_widget",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Enable SEO widget in add\/edit articles page",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "website_preview_url",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "custom website preview url",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "lisan_client_id",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "Lisan Ai client id",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    },
+    {
+        "index": "configs_sync_endpoint",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "The URL containing the configs JSON data, used for adding and updating configs using JSON and without queries",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
+    }
+]
