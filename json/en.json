@@ -1,4 +1,6 @@
 {
+    "expire" : "expire",
+    "notifications_configs" : "notifications configs",
     "Drafts" : "Drafts",
     "add_edit_ad_size" : "add edit ad size",
     "add_client" : "add client",
