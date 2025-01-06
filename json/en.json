@@ -22,7 +22,8 @@
     "bank_address" : "Bank Address",
     "payment_type" : "Payment Type",
     "currency" : "currency",
-    
+    "add_new_contract" : "add new contract",
+    "contract_name" : "Contract Name",
     "more_in_subsection" : "more in subsection",
     "more_in_subsection_child" : "more in subsection child",
     "the_name" : "the name",
