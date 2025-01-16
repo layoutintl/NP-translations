@@ -1,5 +1,10 @@
 {
     "expire" : "expire",
+    "Lock_Period" : "Lock Period",
+    "Page_name" : "Page name",
+    "add_pages_after_page" : "add pages after page",
+    "text_color" : "text color",
+    "Black_&_white" : "Black & White",
     "similar_articles_last_5_days" : "similar articles last 5 days",
     "Title" : "Title",
     "Subtitle" : "Subtitle",
