@@ -25,6 +25,7 @@
     "default_page_status" : "default page status",
     "title_font_family " : "title font family",
     "title_font_size" : "title font size",
+    "title_font_color " : "title font color", 
     "expire" : "expire",
     "Lock_Period" : "Lock Period",
     "Page_name" : "Page name",
