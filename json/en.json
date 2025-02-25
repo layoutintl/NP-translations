@@ -1,7 +1,17 @@
 {
     "Push Notification" : "Push Notification",
     "Publish_now" : "Publish now",
-    
+    "Title" : "Title",
+    "SubTitle" : "SubTitle",
+    "Body" : "Body",
+    "By_line" : "By line",
+    "Images" : "Images",
+    "Words" : "Words",
+    "Chars" : "Chars",
+    "Cm" : "Cm",
+    "Pages" : "Pages",
+    "Columns" : "Columns",
+    "Images" : "Images",
     "expire" : "expire",
     "Lock_Period" : "Lock Period",
     "Page_name" : "Page name",
