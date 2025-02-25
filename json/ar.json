@@ -1,4 +1,17 @@
 {
+    "Push Notification" : "الإشعارات الفورية",
+    "Publish_now" : "انشر الآن".
+    "Add_link" : "إضافة رابط",
+    "Title" : "العنوان",
+    "SubTitle" : "العنوان الفرعي",
+    "Body" : "الفقرة الأساسية",
+    "By_line" : "بالخط",
+    "Images" : "الصور",
+    "Words" : "كلمات",
+    "Chars" : "أحرف",
+    "Cm" : "سم",
+    "Pages" : "صفحات",
+    "Columns" : "أعمدة",
     "My_Recent_Articles": "مواضيع يتم العمل عليها حاليا",
     "new_article": "موضوع جديد",
     "search_articles": "البحث عن المواضيع",
