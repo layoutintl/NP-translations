@@ -1,5 +1,9 @@
 {
     "plan" : "الخطة",
+    "Events" : "الفعاليات",
+    "New_Event" : "فعالية جديدة",
+    "event_description" : "وصف الفعالية",
+    "Project_Management" : "إدارة المشروع",
     "add_event" : "إضافة حدث",
     "No Event Added" : "لا يوجد حدث مضاف",
     "Group" : "المجموعة",
