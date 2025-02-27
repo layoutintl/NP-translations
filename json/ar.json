@@ -1375,7 +1375,7 @@
     "download_pdf_delivered_page": "تحميل PDF للصفحة المسلمة",
     "pages_privileges_management": "إدارة صلاحيات الصفحات",
     "data_successfully_updated": "تم تحديث البيانات بنجاح",
-    "deny_download_file": "رفض تحميل الملف"
+    "deny_download_file": "رفض تحميل الملف",
     "privilege": "الصلاحيات",
     "private": "شخصي",
     "exact": "بحث دقيق",
@@ -1439,7 +1439,7 @@
     "users_efficiency": "تقرير فعالية المستخدمين",
     "page_production": "إنتاجية الصفحات",
     "change_status_article_denied": "تم رفض تغيير حالة المقال",
-    "simple_view": "عرض بسيط"
+    "simple_view": "عرض بسيط",
     "author_report_description": "تقرير الكتّاب",
     "author_efficiency_report_description": "تقرير فعالية الكتاب",
     "sections_efficiency_report_description": "تقرير الأقسام العام",
@@ -1486,7 +1486,7 @@
     "Upload & New": "تحميل وإنشاء جديد",
     "edit_page_section": "تحرير قسم الصفحة",
     "hijri_years_offset": "إزاحة السنوات الهجرية",
-    "offset": "إزاحة"
+    "offset": "إزاحة",
     "articles_flags": "الحالة الثانوية",
     "manage_articles_flags": "إدارة الحالة الثانوية",
     "remove_articles_flags": "حذف الحالة الثانوية",
@@ -1586,7 +1586,7 @@
     "showing": "عرض",
     "change_process": "تغيير العملية",
     "print_this_section": "طباعة هذا القسم",
-    "choose": "اختر"
+    "choose": "اختر",
     "default_news_search_criteria": "نوع البحث التلقائي",
     "user_default_search_criteria": "معايير البحث الافتراضية للمستخدم",
     "author_efficiency_report": "تقرير الكتّاب التفصيلي",
@@ -1726,7 +1726,7 @@
     "view_text": "عرض النص",
     "display_at_state": "العرض في الحالة",
     "action_type": "نوع النشاط",
-    "Msg_sure_postpone_page": "هل أنت متأكد من تأجيل الصفحة؟"
+    "Msg_sure_postpone_page": "هل أنت متأكد من تأجيل الصفحة؟",
     "powered_by_newspress": "Newspress مدعوم من",
     "font_size": "حجم الخط",
     "paperless_main_page": "الصفحة الرئيسية اللاورقية",
@@ -1765,7 +1765,7 @@
     "ad_type_name": "اسم نوع الإعلان",
     "ad_types": "أنواع الإعلانات",
     "ad_type": "نوع الإعلان",
-    "ad_page_name": "اسم صفحة الإعلان"
+    "ad_page_name": "اسم صفحة الإعلان",
     "ad_pages": "صفحة الإعلان",
     "ad_page": "صفحة الاعلان",
     "ad_number": "رقم الاعلان",
@@ -1821,7 +1821,7 @@
     "cms_sources": "مصادر CMS",
     "inside_category": "داخل الفئة",
     "msg_sure_update_issuedate": "هل تريد تغيير تاريخ النشر للغد؟",
-    "action": "إجراء"
+    "action": "إجراء",
     "log_action_article_comment_added": "إضافة تعليق",
     "log_action_autosave": "حفظ تلقائي",
     "log_action_change_article_flag": "تغيير الحالة الثانوية",
@@ -1981,7 +1981,7 @@
     "send_to_sms": "إرسال إلى SMS",
     "send_to_twitter": "إرسال إلى تويتر",
     "new_story": "خبر جديد",
-    "drop_box": "دروب بوكس"
+    "drop_box": "دروب بوكس",
     "merge_articles": "دمج المواد",
     "article_limits": "تحديد عدد الكلمات",
     "print_images": "طباعة الصور",
@@ -2005,7 +2005,7 @@
     "last_access": "آخر وصول",
     "you_cannot_change_status": "لا يمكنك تغيير الحالة",
     "all_captions_are_required_for_new_files": "يجب إدخال جميع التسميات التوضيحية للملفات الجديدة",
-    "cant_change_status": "لا يمكن تغيير الحالة"
+    "cant_change_status": "لا يمكن تغيير الحالة",
     "compare_story_changes": "مقارنة النسخ",
     "clean_text2": "تنظيف النص",
     "assign_from": "التكليف من",
@@ -2633,7 +2633,7 @@
     "follow_plan": "اتباع الخطة",
     "Follow_plan": "اتباع الخطة",
     "forbid_unlink_images_not_published": "منع فك الارتباط للصور غير المنشورة",
-    "forbid_update_article_text": "منع تحديث نص المقال"
+    "forbid_update_article_text": "منع تحديث نص المقال",
     "Force Embed IPTC": "بالقوة IPTC تضمين",
     "force_override": "فرض التجاوز",
     "free_drawing_action": "إجراء الرسم الحر",
@@ -2774,7 +2774,7 @@
     "low_priorityby_line": "بواسطة - أولوية منخفضة",
     "low_prioritychars": "أحرف - أولوية منخفضة",
     "msg_sure_delete": "هل أنت متأكد من الحذف؟",
-    "more_details": "معلومات أخرى"
+    "more_details": "معلومات أخرى",
     "new_stories": "قصص جديدة",
     "new_tab": "تبويب جديد",
     "new_window": "نافذة جديدة ",
@@ -2869,7 +2869,7 @@
     "paperless_change_annotation_article_action": "إجراء تغيير تعليق المقالة غير الورقية",
     "paperless_forbidden_statuses_action": "إجراء الحالات المحظورة غير الورقية",
     "passed": "تم الاجتياز",
-    "Passed": "تم الاجتياز"
+    "Passed": "تم الاجتياز",
     "paste_as_body_introduction": "لصق كمقدمة للجسم",
     "pdf_forbidden_statuses_action": "إجراء الحالات المحظورة لملف PDF",
     "pdf_name": "اسم PDF",
@@ -3001,7 +3001,7 @@
     "Section/Page": "قسم/صفحة",
     "Sections_and_Numbering": "الأقسام والترقيم",
     "sections_saved_successfully": "تم حفظ الأقسام بنجاح",
-    "select_active_inactive": "اختر نشط/غير نشط"
+    "select_active_inactive": "اختر نشط/غير نشط",
     "Select_at_least_2_pages_to_merge": "الرجاء إختيار صفحتين على الأقل لإتمام عملية الدمج",
     "select_criteria": "اختيار المعايير",
     "select_filter": "اختيار الفلتر",
@@ -3133,7 +3133,7 @@
     "Upload media to 25": "رفع الوسائط إلى 25",
     "Upload media to 26": "رفع الوسائط إلى 26",
     "Upload media to 90": "رفع الوسائط إلى 90",
-    "Upload PDF": "رفع PDF"
+    "Upload PDF": "رفع PDF",
     "allows_the_user_to_access_Social_Media_Sharing_module": "",
     "import_ad_bookings": "استيراد الحجوزات الإعلانية",
     "Ads_for_Publication": "إعلانات للنشر",
@@ -3274,7 +3274,7 @@
     "published": "منشور",
     "contributors": "المساهمون",
     "predefined_plans": "خطط محددة مسبقًا",
-    "ads_placement": "وضع الإعلانات"
+    "ads_placement": "وضع الإعلانات",
     "my_recent_images_name": "صوري الحديثة",
     "override_checkout_name": "تجاوز الخروج",
     "delete_images_name": "حذف الصور",
@@ -3339,7 +3339,7 @@
     "override_link_image_from_view_name": "تجاوز ربط الصورة من العرض",
     "default_author_name": "المؤلف الافتراضي",
     "add_article_comment_name": "إضافة تعليق على المقال",
-    "add_article_comment_from_view_name": "إضافة تعليق على المقال من العرض"
+    "add_article_comment_from_view_name": "إضافة تعليق على المقال من العرض",
     "allow_synchronise_articles_name": "تزامن المواد",
     "reports_authors_detailed_report_name": "تقرير الكتّاب التفصيلي",
     "reports_author_efficiency_name": "تقرير فعالية الكتاب",
@@ -3510,7 +3510,7 @@
     "view_logs_revisions_desc": "عرض سجلات التعديلات",
     "duplicate_article_desc": "تكرار المقال",
     "pw_change_status_desc": "تغيير حالة PW",
-    "access_archive_desc": "الوصول إلى الأرشيف"
+    "access_archive_desc": "الوصول إلى الأرشيف",
     "edit_event_desc": "تعديل الحدث",
     "img_event_upload_desc": "تحميل حدث الصورة",
     "allow_revert_image_desc": "السماح بإعادة الصورة",
