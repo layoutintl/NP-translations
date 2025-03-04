@@ -65,7 +65,8 @@
     "configuration_format" : "تنسيق التكوين",
     "Allowed_Message_variables" : "المتغيرات المسموح بها للرسائل",
     "Variable" : "متغير",
-    "Use this page to configure the notifications queue" : "استخدم هذه الصفحة لتكوين قائمة انتظار الإشعارات",
+    "Use this page to configure the notifications queue, note that the queue will be processed using the maintenance \\\"MM60 - process email queue\\\"": "استخدم هذه الصفحة لتكوين قائمة انتظار الإشعارات، مع ملاحظة أن القائمة سيتم معالجتها باستخدام الصيانة \\\"MM60 - process email queue\\\"",    
+    
     "logs_types" : "أنواع السجلات",
     "news_public_filters_management" : "إدارة الفلاتر العامة للأخبار",
     "news_baskets_management" : "إدارة سلال الأخبار",
