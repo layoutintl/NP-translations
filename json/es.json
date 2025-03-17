@@ -53,7 +53,9 @@
     "manage_rate_card": "gestionar tarjeta de tarifas",
     "content_types": "tipos de contenido",
     "Enabled": "Habilitado",
-    
+    "add_image_style" : "añadir estilo a la imagen",
+    "add_new_social_media_platform_sizes" : "añadir nuevos tamaños de plataformas de medios sociales",
+    "create_story" : "crear historia",
     "Home_Page_Widgets" : "Widgets de la Página de Inicio",
     "View_layout" : "Ver diseño",
     "Newsletter" : "Boletín",
