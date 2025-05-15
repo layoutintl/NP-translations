@@ -1,5 +1,8 @@
 {
     "product_name": "اسم المنتج",
+    "AlBilad_special_sources_report" : "تقرير مصادر البلاد الخاصة",
+    "AlBilad_author_section_report" : "تقرير قسم المؤلفين في البلاد",
+    "users_productivity_report" : " تقرير إنتاجية المستخدمين",
     "add_menu": "إضافة قائمة",
     "menu_url": "رابط القائمة",
     "website_menu": "قائمة الموقع",
