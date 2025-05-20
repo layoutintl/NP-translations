@@ -1,4 +1,10 @@
 {
+    "Vimeo" : "Vimeo",
+    "QRCode" : "QRCode",
+    "Embedded_Code" : "Embedded Code",
+    "Google Maps" : "Google Maps",
+    "Podcast" : "Podcast",
+    "soundcloud" : "sound cloud",
     "Home_Page_Widgets" : "Home Page Widgets",
     "View_layout" : "View layout",
     "Newsletter" : "Newsletter",
