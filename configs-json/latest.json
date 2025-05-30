@@ -5505,7 +5505,7 @@
         "categories": [
             ""
         ],
-        "is_hidden": 
+        "is_hidden": false
     },
     {
         "index": "lisan_client_id",
