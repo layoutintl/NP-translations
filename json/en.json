@@ -4458,7 +4458,7 @@
     "article_page_desc": "Allows the user to assign or relate a page to the article",
     "s_template_desc": "Allows users to search templates",
     "override_img_chkout_desc": "Allows the user to override the checkout privileges on images.",
-    "image_description_desc": "Allows the user to edit the image's description.",
+    "image_description_desc": "Description",
     "cn_template_desc": "Allows users to create templates",
     "publish_postpone_art_desc": "Allow user to bulk Modify Stories Issue Date.",
     "page_planning_desc": "Allows the user to access page planning page",
