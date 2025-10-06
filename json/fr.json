@@ -5770,5 +5770,21 @@
   "add_article": "Ajouter un Article",
   "JWPlayer_Video": "Vidéo JWPlayer",
   "Newspaper": "Journal",
-  "kicker": "Kicker"
+  "kicker": "Kicker",
+   "element": "Élément",
+  "organize_grid_with_ai": "Organiser la grille avec l'IA",
+  "regenerate_all_previews": "Régénérer toutes les prévisualisations",
+  "load_template": "Charger le modèle",
+  "empty_page": "Page vide",
+  "preview_document": "Prévisualiser le document",
+  "toggle_grid_guides": "Afficher/Masquer les guides de grille",
+  "undo": "Annuler",
+  "redo": "Rétablir",
+  "organize_grid_automatically": "Organiser la grille automatiquement",
+  "edit_widget": "Modifier le widget",
+  "copyfit_body": "Ajuster le corps du texte",
+  "regenerate_preview": "Régénérer la prévisualisation",
+  "change_template": "Changer de modèle",
+  "edit_inline": "Modifier en ligne",
+  "lock_widget": "Verrouiller le widget"
 }
