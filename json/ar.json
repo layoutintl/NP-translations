@@ -4056,5 +4056,6 @@
     "allow_filter_by_custom_fields": "السماح بالتصفية حسب الحقل المخصص",
     "organizational_unit": "الوحدة التنظيمية",
     "seo_tags": "SEO علامات ",
-    "error_saving_try_again": "خطأ في الحفظ حاول مرة أخرى"
+    "error_saving_try_again": "خطأ في الحفظ حاول مرة أخرى",
+    "article_widgets": "أدوات المقال"
 }
