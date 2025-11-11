@@ -5530,5 +5530,17 @@
             ""
         ],
         "is_hidden": false
+    },
+    {
+        "index": "custom_fields_under_editor",
+        "allowed_values": ["0", "1"],
+        "value": "1",
+        "default_value": "1",
+        "recommended_value": "1",
+        "description": "Show the custom fields of the story under the editor rather than in the right panel (prepare form), if set to 1",
+        "categories": [
+            "NPX"
+        ],
+        "is_hidden": false
     }
 ]
