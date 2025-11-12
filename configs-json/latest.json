@@ -5542,5 +5542,17 @@
             "NPX"
         ],
         "is_hidden": false
+    },
+    {
+        "index": "xml_refined_field",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "article_custom_content_type",
+        "description": "Article content type custom field XML name",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
     }
 ]
