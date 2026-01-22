@@ -5698,5 +5698,6 @@
   "regenerate_preview": "Regenerate Preview",
   "change_template": "Change Template",
   "edit_inline": "Edit Inline",
-  "lock_widget": "Lock Widget"
+  "lock_widget": "Lock Widget",
+  "content_type": "Content Type"
 }
