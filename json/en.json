@@ -1,6 +1,11 @@
 {
   "Home_Page_Widgets": "Home Page Widgets",
   "Web_stories" : "Web stories",
+  "Configuration Name" : "Configuration Name",
+  "add_new row" : "Add new row",
+  "Save" : "Save",
+  "Configuration Value" : "Configuration Value",
+  "operation_success" : "operation success",
   "VIDEO_DETAILS" : "Video Details",
   "Video_title" : "Video Title",
   "Video_file" : "Video file",
