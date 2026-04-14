@@ -1,5 +1,7 @@
 {
     "product_name": "اسم المنتج",
+    "All_images" : "جميع الصور",
+    "Display_unlinked_image" : "عرض الصورة غير المرتبطة",
     "Authors_list" : "قائمة المؤلفين",
     "path_and_naming" : "المسار والتسمية",
     "compression" : "الضغط",
@@ -17,7 +19,7 @@
     "Export_only_checked_in_delivered_articles" : "تصدير المقالات التي تم تسجيل وصولها فقط",
     "Export_directly_linked_images" : "تصدير الصور المرتبطة مباشرة",
     "Give_priority_to_images_in_temp_folder" : "إعطاء الأولوية للصور الموجودة في المجلد المؤقت",
-    "image_prefix" : "بادئة الصورة"
+    "image_prefix" : "بادئة الصورة",
     "Rename_to" : "إعادة تسمية إلى",
     "Export_original_images" : "تصدير الصور الأصلية",
     "confirm_replace_all"  : "تأكيد استبدال الكل",
