@@ -2407,6 +2407,8 @@
     "page_libraries": "مكتبات الصفحات",
     "templates_and_libraries": "القوالب والمكتبات",
     "upload_new": "رفع جديد",
+    "UPLOAD_NEW" : "رفع جديد",
+    "Sort Descending" : "ترتيب تنازلي",
     "search_templates_and_libraries": "البحث في القوالب والمكتبات",
     "postponed_pages": "الصفحات المؤجلة",
     "upload_page": "رفع صفحة",
