@@ -1,6 +1,12 @@
 {
     "product_name": "اسم المنتج",
     "All_images" : "جميع الصور",
+    "EVENT_IMAGES" : "صور الحدث",
+    "Download_all" : "تحميل الكل",
+    "search_lightboxes" : "Lightboxes البحث في ",
+    "Storage_locations" : "مواقع التخزين",
+    "search_storage_locations" : "البحث في مواقع التخزين",
+    "Number_of_words" : "عدد الكلمات",
     "manage_your_filters" : "إدارة المرشحات ",
     "Add_selected_filters" : "إضافة الفلاتر المختارة",
     "Drag and drop to reorder" : "اسحب وأسقط لإعادة ترتيب العناصر",
