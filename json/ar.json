@@ -1,6 +1,8 @@
 {
     "product_name": "اسم المنتج",
     "All_images" : "جميع الصور",
+    "Is_author" : " هو المؤلف",
+    "Create_My_Basket" : "إنشاء سلتي",
     "Display_unlinked_image" : "عرض الصورة غير المرتبطة",
     "Authors_list" : "قائمة المؤلفين",
     "path_and_naming" : "المسار والتسمية",
