@@ -684,5 +684,6 @@
     "Unable to fetch remote JSON URL.": "Unable to fetch remote JSON URL.",
     "Up to date": "Up to date",
     "language file synced successfully.": "language file synced successfully.",
-    "No languages yet": "No languages yet"
+    "No languages yet": "No languages yet",
+    "Remote JSON URL is required.": "Remote JSON URL is required."
 }

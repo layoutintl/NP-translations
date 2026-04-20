@@ -684,5 +684,6 @@
     "Unable to fetch remote JSON URL.": "تعذر جلب رابط JSON البعيد.",
     "Up to date": "محدّث",
     "language file synced successfully.": "تمت مزامنة ملف اللغة بنجاح.",
-    "No languages yet": "لا توجد لغات بعد"
+    "No languages yet": "لا توجد لغات بعد",
+    "Remote JSON URL is required.": "رابط JSON البعيد مطلوب."
 }
