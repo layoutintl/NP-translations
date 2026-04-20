@@ -1,0 +1,12 @@
+{
+    "en": {
+        "title": "English",
+        "direction": "ltr",
+        "text_align": "left"
+    },
+    "ar": {
+        "title": "العربية",
+        "direction": "rtl",
+        "text_align": "right"
+    }
+}
