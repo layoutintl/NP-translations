@@ -685,5 +685,19 @@
     "Up to date": "Up to date",
     "language file synced successfully.": "language file synced successfully.",
     "No languages yet": "No languages yet",
-    "Remote JSON URL is required.": "Remote JSON URL is required."
+    "Remote JSON URL is required.": "Remote JSON URL is required.",
+    "Choose a link type to generate": "Choose a link type to generate",
+    "Copied": "Copied",
+    "Expired Date": "Expired Date",
+    "Expired Flag": "Expired Flag",
+    "File ID": "File ID",
+    "Flags": "Flags",
+    "Locked": "Locked",
+    "MD5": "MD5",
+    "Error! Please connect to all storage locations before saving.": "Error! Please connect to all storage locations before saving.",
+    "Alphabetically Ascending": "Alphabetically Ascending",
+    "Alphabetically Descending": "Alphabetically Descending",
+    "Least Recent": "Least Recent",
+    "Most Recent": "Most Recent",
+    "Relevance": "Relevance"
 }
