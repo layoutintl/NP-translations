@@ -683,5 +683,6 @@
     "URL must be a JSON file from https://raw.githubusercontent.com": "URL must be a JSON file from https://raw.githubusercontent.com",
     "Unable to fetch remote JSON URL.": "Unable to fetch remote JSON URL.",
     "Up to date": "Up to date",
-    "language file synced successfully.": "language file synced successfully."
+    "language file synced successfully.": "language file synced successfully.",
+    "No languages yet": "No languages yet"
 }

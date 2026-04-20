@@ -683,5 +683,6 @@
     "URL must be a JSON file from https://raw.githubusercontent.com": "يجب أن يكون الرابط ملف JSON من https://raw.githubusercontent.com",
     "Unable to fetch remote JSON URL.": "تعذر جلب رابط JSON البعيد.",
     "Up to date": "محدّث",
-    "language file synced successfully.": "تمت مزامنة ملف اللغة بنجاح."
+    "language file synced successfully.": "تمت مزامنة ملف اللغة بنجاح.",
+    "No languages yet": "لا توجد لغات بعد"
 }
