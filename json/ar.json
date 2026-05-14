@@ -11,7 +11,12 @@
     "UsedForPage" : "يستخدم لصفحة",
     "cms_article_preview" : "معاينة مقال نظام إدارة المحتوى",
     "Select_publication" : "اختر المنشور",
-    
+    "On_page" : "على الصفحة",
+    "On_widget" : "على الودجت",
+    "All_widgets" : "كل الودجتات",
+    "On_publication" : "على المنشور",
+    "Ordered_By" : "مرتب حسب",
+    "Updated_by" : "تم التحديث بواسطة",
     "please_fill_the_section_field" : "يرجى ملء حقل القسم",
     "body_words_count" : "عدد كلمات النص",
     "View_article_from_preview" : "عرض المقال من المعاينة",
