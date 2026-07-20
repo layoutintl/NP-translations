@@ -685,5 +685,17 @@
             "None"
         ],
         "is_hidden": true
+    },
+    {
+        "index": "dtp_server",
+        "allowed_values": [],
+        "value": "",
+        "default_value": "",
+        "recommended_value": "",
+        "description": "DTP server address",
+        "categories": [
+            "None"
+        ],
+        "is_hidden": false
     }
 ]
