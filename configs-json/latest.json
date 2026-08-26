@@ -697,5 +697,17 @@
             "None"
         ],
         "is_hidden": false
+    },
+    {
+        "index": "show_all_articles_in_annotation",
+        "allowed_values": [],
+        "value": "0",
+        "default_value": "0",
+        "recommended_value": "",
+        "description": "when set to 1 it will not consider page number",
+        "categories": [
+            ""
+        ],
+        "is_hidden": false
     }
 ]
